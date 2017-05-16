@@ -1,0 +1,1 @@
+The D Foundation supports students in conducting research projects around the D language. Research reports and other documents are stored on a per-organization and per-semester -basis in the repository.
